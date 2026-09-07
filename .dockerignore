@@ -1,0 +1,8 @@
+# Fora da imagem: nada disto precisa ir para o servidor
+ChatGPT Image*.png
+README.md
+DEPLOY.md
+.git
+.gitignore
+*.zip
+_*.html
